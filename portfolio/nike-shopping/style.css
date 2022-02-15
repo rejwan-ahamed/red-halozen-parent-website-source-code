@@ -1,0 +1,10 @@
+.row.ld-row2.ld-row-outer {
+    display: flex;
+}
+
+.ld-module-sd {
+    display: flex;
+    justify-content: center;
+    writing-mode: horizontal-tb;
+    align-items: flex-end !important;
+}

@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /about/
+Allow: /authore/
+Allow: /category/
+Allow: /comments/
+Allow: /contact/
+Allow: /feed/
+Allow: /images/
+Allow: /portfolio/
+Allow: /portfolio-catagory/
+Allow: /wp-content/
+Allow: /wp-includes/
+Allow: /wp-ison/
+Allow: /wp-content/uploads/2018/
+Allow: /wp-content/uploads/2020/
+Allow: /wp-content/uploads/2021/
+Allow: /pages/thankyou.html
