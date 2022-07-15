@@ -1,2 +1,2 @@
 # red-halozen-parent-website-source-code
-this is red halozen parent website(main website source code).1
+this is red halozen parent website(main website source code).
